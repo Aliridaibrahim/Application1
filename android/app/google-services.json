@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20898252505",
+    "project_id": "world-38bc4",
+    "storage_bucket": "world-38bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20898252505:android:d7e8f0742152d585ada0c8",
+        "android_client_info": {
+          "package_name": "com.example.world_of_art"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20898252505-r75rerjdnb9h5de9cn9ecgq2kqftp0kt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.world_of_art",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "20898252505-2ipq82ahpsodu8ko38d5gba25v1cuuvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeVJ-EPrf7HldTQ0zDh6roEERjqMy9ZG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20898252505-2ipq82ahpsodu8ko38d5gba25v1cuuvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
