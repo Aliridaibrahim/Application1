@@ -1,4 +1,4 @@
-# world_of_art
+# Application
 
 A new Flutter application.
 
